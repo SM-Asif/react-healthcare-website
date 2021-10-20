@@ -1,0 +1,10 @@
+.gallery img{
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    opacity: .8;
+    transition: .5s;
+}
+.gallery img:hover{
+    transform: scale(1.05);
+    opacity: 1;
+}

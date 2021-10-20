@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiology",
+        "details": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "longDetails": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist.Cardiology is a branch of internal medicine. A cardiologist is not the same as a cardiac surgeon. A cardiac surgeon opens the chest and performs heart surgery.A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system. The cardiologist will carry out tests, and they may perform some procedures, such as heart catheterizations, angioplasty, or inserting a pacemaker.Heart disease relates specifically to the heart, while cardiovascular disease affects the heart, the blood vessels, or both.To become a cardiologist in the United States, it is necessary to complete 4 years of medical school, 3 years of training in internal medicine, and at least 3 years specializing in cardiology.",
+        "img": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 2,
+        "name": "Neurogoly",
+        "details": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities.",
+        "longDetails": "Neurologists are medical professionals who specialize in diagnosing and treating conditions that affect the nervous system.A general practice doctor might make a referral to a neurologist if they believe that an individual shows signs of a neurological problem. Neurological issues encompass a broad range of conditions, including Alzheimer’s disease, diabetic neuropathy, headache, and nerve damage.In this article, we discuss what neurologists do, including the types of conditions that they treat, the procedures they perform, and when a person might see this specialist.",
+        "img": "https://images.pexels.com/photos/6203473/pexels-photo-6203473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 3,
+        "name": "Diagnostic",
+        "details": "Medical diagnosis is the process of determining which disease or condition explains a person's symptoms and signs. It is most often referred to as diagnosis with the medical context being implicit.",
+        "longDetails": "Diagnosis, the process of determining the nature of a disease or disorder and distinguishing it from other possible conditions. The term comes from the Greek gnosis, meaning knowledge.The diagnostic process is the method by which health professionals select one disease over another, identifying one as the most likely cause of a person’s symptoms. Symptoms that appear early in the course of a disease are often more vague and undifferentiated than those that arise as the disease progresses, making this the most difficult time to make an accurate diagnosis. Reaching an accurate conclusion depends on the timing and the sequence of the symptoms, past medical history and risk factors for certain diseases, and a recent exposure to disease. The physician, in making a diagnosis, also relies on various other clues such as physical signs, nonverbal signals of distress, and the results of selected laboratory and radiological and other imaging tests. From the large number of facts obtained, a list of possible diagnoses can be determined, which are referred to as the differential diagnosis. The physician organizes the list with the most likely diagnosis given first. Additional information is identified, and appropriate tests are selected that will narrow the list or confirm one of the possible diseases.Historical aspects",
+        "img": "https://images.pexels.com/photos/5752309/pexels-photo-5752309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 4,
+        "name": "Dental",
+        "details": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral.",
+        "longDetails": "Dentistry, the profession concerned with the prevention and treatment of oral disease, including diseases of the teeth and supporting structures and diseases of the soft tissues of the mouth. Dentistry also encompasses the treatment and correction of malformation of the jaws, misalignment of the teeth, and birth anomalies of the oral cavity such as cleft palate. In addition to general practice, dentistry includes many specialties and subspecialties, including orthodontics and dental orthopedics, pediatric dentistry, periodontics, prosthodontics, oral and maxillofacial surgery, oral and maxillofacial pathology, endodontics, public health dentistry, and oral and maxillofacial radiology.",
+        "img": "https://images.pexels.com/photos/52527/dentist-pain-borowac-cure-52527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 5,
+        "name": "Ophthalmology",
+        "details": "We offer complete eye care services: Vision services, including eye exams. Medical eye care -- for conditions like glaucoma, iritis, and chemical burns. Surgical eye care -- for trauma, crossed eyes, cataracts, glaucoma, and other problems.",
+        "longDetails": "Ophthalmology is the study of medical conditions relating to the eye. Ophthalmologists are doctors who specialize in the medical and surgical treatment of this organ.A general practice doctor may refer someone to an ophthalmologist if they show symptoms of cataracts, eye infections, optic nerve problems, or other eye conditions.In this article, we look at what ophthalmologists do, including the types of conditions that they treat, the procedures they perform, and when a person might see this specialist.",
+        "img": "https://images.pexels.com/photos/5752281/pexels-photo-5752281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 6,
+        "name": "Emergency",
+        "details": "An emergency medical service (or EMS) is a service providing out-of-hospital acute care and transport to definitive care, to patients with illnesses and injuries which the patient believes constitute a medical emergency. ... Trauma systems, hospitals, trauma centers, and specialty care centers.",
+        "longDetails": "When an emergency happens, whether it's a heart attack or a hurricane, it's critical that medical service providers have access to health information for anyone who needs assistance.While you can't predict when an emergency may happen, you can be prepared. Make sure that key health information is up to date, accurate and handy.Nowadays, you may find it useful to store this information in an online patient health record and share it with your doctor and emergency contact person. In fact, you may already have access to a patient portal, which is an electronic health information tool offered by many insurance companies, employers and health care institutions.If you have children, it is important to handle their emergency health information similarly. You may not be available to provide needed information in an emergency.",
+        "img": "https://images.pexels.com/photos/3845126/pexels-photo-3845126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+    
+]
